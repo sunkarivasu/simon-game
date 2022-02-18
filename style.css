@@ -1,0 +1,66 @@
+body
+{
+    background-color: rgb(3, 3, 54);
+    text-align: center;
+}
+
+.big-heading
+{
+    margin:1% auto 0% auto;
+    padding:0%;
+    color:white;
+    line-height: 3em;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.color
+{
+    width:210px;
+    height:210px;
+    border:10px solid black;
+    margin:2%;
+    border-radius: 20%;
+
+}
+
+button{
+    padding: 0%;
+    margin: 0%;
+}
+
+.green
+{
+    background-color: green;
+}
+
+.red
+{
+    background-color: red;
+}
+
+.blue
+{
+    background-color: blue;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+.correct
+{
+    background-color: white;
+}
+
+.wrong
+{
+    background-color: red;  
+}
+
+.copy-rights
+{
+    color:white;
+}
+
